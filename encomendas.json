@@ -1,0 +1,27 @@
+[
+    {
+      "nome": "Pereira",
+      "produto": "Criativos estáticos",
+      "qtde": 12,
+      "valorUnitario": 2000
+    },
+    {
+      "nome": "Edin",
+      "produto": "Gerenciamento de Campanha",
+      "qtde": 1,
+      "valorUnitario": 5000
+    },
+    {
+      "nome": "Nunes",
+      "produto": "Atualização de Criativos",
+      "qtde": 25,
+      "valorUnitario": 2000
+    },
+    {
+      "nome": "Guilherme",
+      "produto": "Campanhas Para MEI",
+      "qtde": 4,
+      "valorUnitario": 3000
+    }
+  ]
+  
